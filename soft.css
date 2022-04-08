@@ -1,0 +1,39 @@
+*{
+	
+	background-color: yellow;
+	
+}
+.register{
+	text-align: center;
+	color: black;
+}
+.div{
+
+text-align: center;
+background-color: #EDECEC;
+border-radius: 30px;
+}
+form{
+	text-align: center;
+background-color: #EDECEC;
+height: 350px;
+border-radius: 30px;
+border-left-color: red;
+}
+.di{
+	height: 40px;
+	border-radius: 5px;
+	border-bottom-color: #E80E0E;
+	border-right-color: #4F20EF;
+	border-left-color: #4FAE1E;
+	border-top-color: #13B3E1;
+}
+.dv{
+	height: 50px;
+	width: 80px;
+	border-radius: 8px;
+	border-bottom-color: #E80E0E;
+	border-right-color: #4F20EF;
+	border-left-color: #4FAE1E;
+	border-top-color: #13B3E1;
+}
